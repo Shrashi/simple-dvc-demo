@@ -31,3 +31,13 @@ git add .
 
 git commit -m "first commit"
 
+for updates
+
+git add .
+git commit -m "update Readme.md"
+
+for adding remote origin
+
+git remote add origin https://github.com/Shrashi/simple-dvc-demo.git
+git branch -M main
+git push origin main
