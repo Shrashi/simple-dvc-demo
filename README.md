@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 download the data from
 
-https://www.kaggle.com/rajyellow46/wine-quality
+https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5?usp=sharing
 
 ```bash
 git init
